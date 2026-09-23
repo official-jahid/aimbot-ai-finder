@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12210.168 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collider Finder", "Collider Finder\Collider Finder.csproj", "{DD723CFB-778C-4851-8158-F59DC0F3B627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD723CFB-778C-4851-8158-F59DC0F3B627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD723CFB-778C-4851-8158-F59DC0F3B627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD723CFB-778C-4851-8158-F59DC0F3B627}.Release|Any CPU.ActiveCfg = Release|x64
+		{DD723CFB-778C-4851-8158-F59DC0F3B627}.Release|Any CPU.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEFE607B-E232-4FF7-BAAF-2B913C7030A1}
+	EndGlobalSection
+EndGlobal
